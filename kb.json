@@ -1,0 +1,21 @@
+[
+ {"id":"about","title":"About cabbycreative","keywords":"about who company cabbycreative what do you do",
+  "answer":"cabbycreative offers website development, marketing and advertising services.",
+  "source":"https://cabbycreative.page.gd","updated":"2026-10-20","reviewed_by":"OWNER-TO-CONFIRM"},
+ {"id":"services","title":"Services","keywords":"services offer website development design marketing advertising advertise ads campaign build site",
+  "answer":"We help businesses and advertisers with website development, marketing and advertising. For details on a specific service, tell me what you need and I can connect you with our team.",
+  "source":"https://cabbycreative.page.gd","updated":"2026-10-20","reviewed_by":"OWNER-TO-CONFIRM"},
+ {"id":"contact","title":"Contact and channels","keywords":"contact reach support talk whatsapp telegram facebook phone number message channel",
+  "answer":"You can reach us on WhatsApp (+254112937903), Telegram (@cabbycreatives), Facebook (@cabbycreative) or via our website.",
+  "source":"https://cabbycreative.page.gd","updated":"2026-10-20","reviewed_by":"OWNER-TO-CONFIRM"},
+ {"id":"pricing","title":"Pricing and quotes","keywords":"price pricing cost how much quote rates fee charge package budget cheap discount",
+  "answer":null,"source":"https://cabbycreative.page.gd","updated":"","reviewed_by":""},
+ {"id":"timeline","title":"Delivery time","keywords":"how long timeline turnaround delivery deadline duration weeks days ready",
+  "answer":null,"source":"https://cabbycreative.page.gd","updated":"","reviewed_by":""},
+ {"id":"payments","title":"Payment methods","keywords":"pay payment methods mpesa card bank deposit invoice installment",
+  "answer":null,"source":"https://cabbycreative.page.gd","updated":"","reviewed_by":""},
+ {"id":"portfolio","title":"Past work","keywords":"portfolio examples samples previous work clients case studies",
+  "answer":null,"source":"https://cabbycreative.page.gd","updated":"","reviewed_by":""},
+ {"id":"hours","title":"Business hours","keywords":"hours open opening available time zone working when",
+  "answer":null,"source":"https://cabbycreative.page.gd","updated":"","reviewed_by":""}
+]
